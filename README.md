@@ -4,6 +4,8 @@ An Omarchy theme inspired by the illustrations in *The Lost Words*: deep woodlan
 
 ![Four illustration-only Lost Words wallpapers](preview.jpg)
 
+**Background artwork:** The Kingfisher, Bramble, Conker, and Dandelion illustrations are by **Jackie Morris**, from the book ***The Lost Words*** by **Robert Macfarlane and Jackie Morris**, published by **Hamish Hamilton**. The wallpapers are cropped from poster editions of the book's illustrations; all artwork rights remain with the respective copyright holders.
+
 ## Install
 
 ```bash
