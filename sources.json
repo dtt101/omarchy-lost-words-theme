@@ -1,0 +1,90 @@
+[
+  {
+    "source_pdf": "KingfisherPoster_original_original.pdf",
+    "source_sha256": "d323059dc4b8fb4309a17bf65a19e2cbd997f9547caa4b053a204a1503e1ba9c",
+    "page": 1,
+    "image_object": 33,
+    "original": "artwork/kingfisher.jpg",
+    "original_dimensions": [
+      1597,
+      2176
+    ],
+    "crop_xywh": [
+      0,
+      440,
+      1597,
+      898
+    ],
+    "wallpaper": "backgrounds/01-kingfisher.jpg",
+    "wallpaper_dimensions": [
+      2560,
+      1440
+    ]
+  },
+  {
+    "source_pdf": "BramblePoster_original_original.pdf",
+    "source_sha256": "21841cbd3d37d75bc5e01d231a60bd272342a11779cb9a87d9606c2ce364eb29",
+    "page": 1,
+    "image_object": 30,
+    "original": "artwork/bramble.jpg",
+    "original_dimensions": [
+      1597,
+      2176
+    ],
+    "crop_xywh": [
+      0,
+      740,
+      1597,
+      898
+    ],
+    "wallpaper": "backgrounds/02-bramble.jpg",
+    "wallpaper_dimensions": [
+      2560,
+      1440
+    ]
+  },
+  {
+    "source_pdf": "ConkerPoster_original_original.pdf",
+    "source_sha256": "c570fb2f7d09efcd8945f1c17aacc141ec1baf70f47f88fb3b4628b459c82f52",
+    "page": 1,
+    "image_object": 31,
+    "original": "artwork/conker.jpg",
+    "original_dimensions": [
+      1597,
+      2176
+    ],
+    "crop_xywh": [
+      0,
+      590,
+      1597,
+      898
+    ],
+    "wallpaper": "backgrounds/03-conker.jpg",
+    "wallpaper_dimensions": [
+      2560,
+      1440
+    ]
+  },
+  {
+    "source_pdf": "DandelionPoster_original_original.pdf",
+    "source_sha256": "d7f4e353b077d0ceafbbaf652ea51b6303f488b5cbb98a5f9f01e50b96916bdf",
+    "page": 1,
+    "image_object": 34,
+    "original": "artwork/dandelion.jpg",
+    "original_dimensions": [
+      1597,
+      2176
+    ],
+    "crop_xywh": [
+      0,
+      170,
+      1597,
+      898
+    ],
+    "wallpaper": "backgrounds/04-dandelion.jpg",
+    "wallpaper_dimensions": [
+      2560,
+      1440
+    ]
+  }
+]
