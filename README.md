@@ -27,8 +27,6 @@ Four 2560 x 1440 landscape wallpapers: Kingfisher, Bramble, Conker, and Dandelio
 
 The original JPEG image objects were extracted directly from the downloaded poster PDFs without recompression. Each original is 1597 x 2176 pixels and is preserved in `artwork/`. The desktop versions use selected 1597 x 898 landscape crops, resized with Lanczos to 2560 x 1440 and saved as high-quality JPEGs. This is an enlargement of the available source detail, not native 1440p artwork. The botanical wallpapers show details of the taller paintings; full compositions remain in `artwork/`.
 
-The Explorer's Guide contains much smaller illustrations, so its images were not used for desktop backgrounds. No AI-generated or repainted imagery is included.
-
 ## Palette
 
 | Role | Colour |
